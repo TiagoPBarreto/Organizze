@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#00b2bc</color>
+    <color name="purple_700">#01c7d2</color>
+    <color name="teal_200">#00b2bc</color>
+    <color name="teal_700">#ff706a</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cores despesas!-->
+    <color name="teal_Despesas">#ff706a</color>
+    <color name="DarkDespesa">#e66560</color>
+    <color name="AccentDespesa">#FF706a</color>
+
+    <!-- Cores receitas!-->
+    <color name="teal_Receita">#00D39E</color>
+    <color name="DarkReceita">#00BE8B</color>
+    <color name="AccentReceita">#00D39E</color>
+
+</resources>
